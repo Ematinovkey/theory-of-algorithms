@@ -13,7 +13,7 @@
 
 ## Формат входного файла
 
-Первая строка содержит число <span style="white-space: nowrap">_n_</span> зарегистрированных участников (<span style="white-space: nowrap">1???_n_???100?000</span>). Далее, в последующих <span style="white-space: nowrap">_n_</span> строках записаны по три числа <span style="white-space: nowrap">_a_<sub>_i_</sub></span>, <span style="white-space: nowrap">_b_<sub>_i_</sub></span>, <span style="white-space: nowrap">_c_<sub>_i_</sub></span> (<span style="white-space: nowrap">1???_a_<sub>_i_</sub>,?_b_<sub>_i_</sub>,?_c_<sub>_i_</sub>???_n_</span>) — места в каждом из трёх соревнований <span style="white-space: nowrap">_i_</span>-го участника.
+Первая строка содержит число <span style="white-space: nowrap">_n_</span> зарегистрированных участников (<span style="white-space: nowrap">1≤*n*≤100 000</span>). Далее, в последующих <span style="white-space: nowrap">_n_</span> строках записаны по три числа <span style="white-space: nowrap">_a_<sub>_i_</sub></span>, <span style="white-space: nowrap">_b_<sub>_i_</sub></span>, <span style="white-space: nowrap">_c_<sub>_i_</sub></span> (<span style="white-space: nowrap">1≤*a*<sub>_i_</sub>,*b*<sub>_i_</sub>,*c*<sub>_i_</sub>≤*n*</span>) — места в каждом из трёх соревнований <span style="white-space: nowrap">_i_</span>-го участника.
 
 ## Формат выходного файла
 
