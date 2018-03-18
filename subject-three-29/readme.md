@@ -15,7 +15,7 @@
 
 ## Формат входного файла
 
-Первая строка содержит число островков (<span style="white-space: nowrap">5≤*n*≤100 000</span>). Каждая из последующих <span style="white-space: nowrap">_n_</span> строк содержит два натуральных числа <span style="white-space: nowrap">_a_</span> и <span style="white-space: nowrap">_b_</span>, разделённые пробелом (<span style="white-space: nowrap">1≤*a*,*b*≤5</span>). Числа в (<span style="white-space: nowrap">_i_+1</span>)-й строке описывают поведение <span style="white-space: nowrap">_i_</span>-го островка.
+Первая строка содержит число островков (<span style="white-space: nowrap">5≤*n*≤100</span>). Каждая из последующих <span style="white-space: nowrap">_n_</span> строк содержит два натуральных числа <span style="white-space: nowrap">_a_</span> и <span style="white-space: nowrap">_b_</span>, разделённые пробелом (<span style="white-space: nowrap">1≤*a*,*b*≤5</span>). Числа в (<span style="white-space: nowrap">_i_+1</span>)-й строке описывают поведение <span style="white-space: nowrap">_i_</span>-го островка.
 
 ## Формат выходного файла
 
